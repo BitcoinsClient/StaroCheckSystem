@@ -144,9 +144,9 @@
         "signLayouts": [
           {
             "lines": [
-              "",
-              "&8[&7LOBBY&8]",
-              ".",
+              "&eLobby &0- &e%task_id%",
+                  "&8[&eLOBBY&8]",
+                  "%online_players% / %max_players%",
               ""
             ],
             "blockMaterial": "GOLD_BLOCK",
@@ -155,9 +155,9 @@
           },
           {
             "lines": [
-              "",
-              "&8[&7LOBBY&8]",
-              "..",
+              "&eLobby &0- &e%task_id%",
+                  "&8[&eLOBBY&8]",
+                  "%online_players% / %max_players%",
               ""
             ],
             "blockMaterial": "GOLD_BLOCK",
@@ -166,9 +166,9 @@
           },
           {
             "lines": [
-              "",
-              "&8[&7LOBBY&8]",
-              "...",
+              "&eLobby &0- &e%task_id%",
+                  "&8[&eLOBBY&8]",
+                  "%online_players% / %max_players%",
               ""
             ],
             "blockMaterial": "GOLD_BLOCK",
